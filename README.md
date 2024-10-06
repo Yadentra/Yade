@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Grocery Mate Test Plan](https://github.com/Yadentra/GroceryMate_TestPlan)
 
-- 🌱 I’m currently learning software engineering, particularly in the areas of mobile development, cloud computing, AI/ML**
+- 🌱 I’m currently learning software engineering, particularly in the areas of mobile development, cloud computing, AI/ML
 
 - 👯 I’m looking to collaborate on [Test Automation](https://github.com/Yadentra/test_automation)
 
 - 🤝 I’m looking for help with [Connect Four Game](https://github.com/Yadentra/-ConnectFourGame-)
 
-- 💬 Ask me about construction-related topics. I'm happy to share my knowledge and insights.**
+- 💬 Ask me about construction-related topics. I'm happy to share my knowledge and insights.
 
-- 📫 How to reach me info@yadentra.de**
+- 📫 How to reach me info@yadentra.de
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
