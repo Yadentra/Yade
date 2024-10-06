@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with [Connect Four Game](https://github.com/Yadentra/-ConnectFourGame-)
 
-- 💬 Ask me about **construction-related topics. I'm happy to share my knowledge and insights.**
+- 💬 Ask me about construction-related topics. I'm happy to share my knowledge and insights.**
 
-- 📫 How to reach me **info@yadentra.de**
+- 📫 How to reach me info@yadentra.de**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
