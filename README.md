@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Grocery Mate Test Plan](https://github.com/Yadentra/GroceryMate_TestPlan)
 
-- 🌱 I’m currently learning **earning anything related to software engineering, particularly in the areas of mobile development, cloud computing, AI/ML**
+- 🌱 I’m currently learning anything related to software engineering, particularly in the areas of mobile development, cloud computing, AI/ML**
 
 - 👯 I’m looking to collaborate on [Test Automation](https://github.com/Yadentra/test_automation)
 
