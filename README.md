@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hie 👋 I'm Yadentra, a software engineer with a unique blend of experience—I'm both a construction engineer and a passionate software developer.</h1>
 
 ###
 
