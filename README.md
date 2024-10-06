@@ -20,7 +20,12 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Test Automation<br>- ⚡ In my free time I enjoy staying active through hiking, running, and playing golf. I also find relaxation and inspiration through music, reading, and watching Formula 1 and football.</p>
+<p align="left">My Focus: Bridging the Gap
+I'm deeply interested in combining my construction engineering expertise with my software engineering skills to create innovative solutions that transform the construction industry. I believe technology has a crucial role to play in:
+
+Streamlining workflows: Making processes more efficient and less prone to errors.
+Enhancing efficiency: Optimizing resource allocation and project timelines.
+Improving safety: Implementing tech-driven solutions to enhance site safety.<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Test Automation<br>- ⚡ In my free time I enjoy staying active through hiking, running, and playing golf. I also find relaxation and inspiration through music, reading, and watching Formula 1 and football.</p>
 
 ###
 
