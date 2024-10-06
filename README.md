@@ -1,42 +1,56 @@
-# Yadentra - Software Engineer (Construction Background)
-👋 Welcome! I'm Yadentra, a software engineer with a unique blend of experience—I'm both a construction engineer and a passionate software developer. 
-## My Focus: Bridging the Gap
-I'm deeply interested in combining my construction engineering expertise with my software engineering skills to create innovative solutions that transform the construction industry. I believe technology has a crucial role to play in:
-* **Streamlining workflows:**  Making processes more efficient and less prone to errors.
-* **Enhancing efficiency:** Optimizing resource allocation and project timelines.
-* **Improving safety:** Implementing tech-driven solutions to enhance site safety.
-## Current Projects:
-**1. Construction Material Management App:**
-* A mobile application designed to simplify and optimize the management of construction materials. Features include:
-    * Inventory tracking
-    * Streamlined ordering
-    * Cost optimization
-    * Real-time data insights
-      
-**2. WEATHER LABS: Weather Alert Messaging System:**
-* A user-friendly weather forecasting app designed to keep users informed and prepared. Key features include:
-    * Personalized weather alerts based on location
-    * Customizable update frequency
-    * User-friendly interface
-    * Timely and accurate weather data
-## Skills & Expertise:
-* **Programming Languages:** Python, Java, JavaScript
-* **Web Technologies:** HTML, CSS, React, Flask
-* **Tools & Frameworks:** Git, Selenium, JUnit, Postman
-* **Databases:** MySQL, MongoDB
-* **Construction Engineering:** Project management, structural analysis, building information modeling (BIM)
-* **Other:** Problem Solving, Communication, Teamwork
-## My Interests:
-* I'm passionate about developing user-friendly interfaces and creating solutions that address real-world challenges.
-* I'm eager to collaborate on exciting app development projects, especially those related to construction and technology.
-* I'm constantly seeking to learn and grow my skills, particularly in areas like mobile development, cloud computing, and AI/ML.
-## Hobbies:
-I enjoy staying active through hiking, running, and playing golf. I also find relaxation and inspiration through music, reading, and watching Formula 1 and football. 
-## Fun Fact:
-Programmers often use a technique called "rubber duck debugging" where they explain their code problem to an inanimate object, like a rubber duck. This surprisingly helps them find the solution!
-##  Connect with me!
-- Feel free to ask me about construction-related topics. I'm happy to share my knowledge and insights.
-- Email: [info@yadentra.de]
-- Github:[https://github.com/Yadentra]
-- LinkedIn: [https://www.linkedin.com/in/yadentra-mapuranga-6721b5b6/]
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Test Automation<br>- ⚡ In my free time I enjoy staying active through hiking, running, and playing golf. I also find relaxation and inspiration through music, reading, and watching Formula 1 and football.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
