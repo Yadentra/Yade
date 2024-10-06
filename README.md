@@ -1,61 +1,42 @@
-<h2 align="left">Hi 👋, I'm Yadentra, a software engineer with a unique blend of experience—I'm both a construction engineer and a passionate software developer.<br><br>🔭 I’m currently working on Grocery Mate Test Plan<br><br>🌱 I’m currently learning earning anything related to software engineering, particularly in the areas of mobile development, cloud computing, AI/ML<br><br>👯 I’m looking to collaborate on Test Automation<br><br>🤝 I’m looking for help with Connect Four Game<br><br>💬 Ask me about construction-related topics. I'm happy to share my knowledge and insights.<br><br>📫 How to reach me info@yadentra.de</h2>
+# Yadentra - Software Engineer (Construction Background)
+👋 Welcome! I'm Yadentra, a software engineer with a unique blend of experience—I'm both a construction engineer and a passionate software developer. 
+## My Focus: Bridging the Gap
+I'm deeply interested in combining my construction engineering expertise with my software engineering skills to create innovative solutions that transform the construction industry. I believe technology has a crucial role to play in:
+* **Streamlining workflows:**  Making processes more efficient and less prone to errors.
+* **Enhancing efficiency:** Optimizing resource allocation and project timelines.
+* **Improving safety:** Implementing tech-driven solutions to enhance site safety.
+## Current Projects:
+**1. Construction Material Management App:**
+* A mobile application designed to simplify and optimize the management of construction materials. Features include:
+    * Inventory tracking
+    * Streamlined ordering
+    * Cost optimization
+    * Real-time data insights
+      
+**2. WEATHER LABS: Weather Alert Messaging System:**
+* A user-friendly weather forecasting app designed to keep users informed and prepared. Key features include:
+    * Personalized weather alerts based on location
+    * Customizable update frequency
+    * User-friendly interface
+    * Timely and accurate weather data
+## Skills & Expertise:
+* **Programming Languages:** Python, Java, JavaScript
+* **Web Technologies:** HTML, CSS, React, Flask
+* **Tools & Frameworks:** Git, Selenium, JUnit, Postman
+* **Databases:** MySQL, MongoDB
+* **Construction Engineering:** Project management, structural analysis, building information modeling (BIM)
+* **Other:** Problem Solving, Communication, Teamwork
+## My Interests:
+* I'm passionate about developing user-friendly interfaces and creating solutions that address real-world challenges.
+* I'm eager to collaborate on exciting app development projects, especially those related to construction and technology.
+* I'm constantly seeking to learn and grow my skills, particularly in areas like mobile development, cloud computing, and AI/ML.
+## Hobbies:
+I enjoy staying active through hiking, running, and playing golf. I also find relaxation and inspiration through music, reading, and watching Formula 1 and football. 
+## Fun Fact:
+Programmers often use a technique called "rubber duck debugging" where they explain their code problem to an inanimate object, like a rubber duck. This surprisingly helps them find the solution!
+##  Connect with me!
+- Feel free to ask me about construction-related topics. I'm happy to share my knowledge and insights.
+- Email: [info@yadentra.de]
+- Github:[https://github.com/Yadentra]
+- LinkedIn: [https://www.linkedin.com/in/yadentra-mapuranga-6721b5b6/]
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
